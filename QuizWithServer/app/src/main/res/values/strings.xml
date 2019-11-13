@@ -1,0 +1,599 @@
+<resources>
+
+    <string name="app_name">Quiz MBA</string>
+    <string name="accueil">Musée des beaux arts</string>
+    <string name="last">Merci d'avoir répondu au questionnaire</string>
+
+    <!-- FRA -->
+    <string name="FRA_backText">Retour</string>
+    <string name="FRA_cancelText">Annuler</string>
+    <string name="FRA_nextText">Valider</string>
+    <string name="FRA_skipText">Sauter</string>
+
+    <!-- ANG -->
+    <string name="ANG_backText">Return</string>
+    <string name="ANG_cancelText">Cancel</string>
+    <string name="ANG_nextText">Next</string>
+    <string name="ANG_skipText">Skip</string>
+    <!-- ESP -->
+    <string name="ESP_backText">Regreso</string>
+    <string name="ESP_cancelText">Anular</string>
+    <string name="ESP_nextText">Validar</string>
+    <string name="ESP_skipText">Saltar</string>
+    <!-- Question 1 -->
+    <!-- FRA -->
+    <string name="FRA_quest1">Quel âge avez vous ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest1">How old are you ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest1">¿ Qué edad usted tiene ?</string>
+
+    <!-- Reponse 1 MODIF-->
+
+    <!-- FRA -->
+    <string name="FRA_rep1_A">Moins de 18 ans</string>
+    <string name="FRA_rep1_B">Entre 18 et 25 ans</string>
+    <string name="FRA_rep1_C">Entre 26 et 45 ans</string>
+    <string name="FRA_rep1_D">Entre 46 et 60 ans</string>
+    <string name="FRA_rep1_E">Plus de 60 ans</string>
+    <string name="FRA_rep1_F">Autre</string>
+
+    <!-- ANG -->
+    <string name="ANG_rep1_A">Less than 15 years old</string>
+    <string name="ANG_rep1_B">Between 15 and 25 years old</string>
+    <string name="ANG_rep1_C">Between 26 and 45 years old</string>
+    <string name="ANG_rep1_D">Between 46 and 60 years old</string>
+    <string name="ANG_rep1_E">More than 60 years old</string>
+    <string name="ANG_rep1_F">Other</string>
+
+    <!-- ESP -->
+    <string name="ESP_rep1_A">Menos de 15 años</string>
+    <string name="ESP_rep1_B">Entre 15 años y 25 años</string>
+    <string name="ESP_rep1_C">Entre 26 y 45 años</string>
+    <string name="ESP_rep1_D">Entre 46 y 60 años</string>
+    <string name="ESP_rep1_E">Más de 60 años</string>
+    <string name="ESP_rep1_F">Otro</string>
+
+    <!-- Question 2 -->
+    <!-- FRA -->
+    <string name="FRA_quest2_A">Tu es un garçon ou une fille ?</string>
+    <string name="FRA_quest2_B">Êtes-vous un homme ou une femme ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_quest2_A">Are you a boy or a girl ?</string>
+    <string name="ANG_quest2_B">Are you a man or a woman ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_quest2_A">¿ Eres un chico o una chica ?</string>
+    <string name="ESP_quest2_B">¿ Es un hombre o una mujer ?</string>
+
+    <!-- Reponse 2 -->
+    <!-- FRA -->
+    <string name="FRA_rep2_AA">Un garcon</string>
+    <string name="FRA_rep2_AB">Une fille</string>
+    <string name="FRA_rep2_BA">Un homme</string>
+    <string name="FRA_rep2_BB">Une femme</string>
+    <string name="FRA_rep2_C">Autre</string>
+
+    <!-- ANG MODIF-->
+    <string name="ANG_rep2_AA">A boy</string>
+    <string name="ANG_rep2_AB">A girl</string>
+    <string name="ANG_rep2_BA">A man</string>
+    <string name="ANG_rep2_BB">A woman</string>
+    <string name="ANG_rep2_C">Other</string>
+
+    <!-- ESP MODIF -->
+    <string name="ESP_rep2_AA">Un chico</string>
+    <string name="ESP_rep2_AB">Una chica</string>
+    <string name="ESP_rep2_BA">Un hombre</string>
+    <string name="ESP_rep2_BB">Una mujer</string>
+    <string name="ESP_rep2_C">Otro</string>
+
+    <!-- Question 3 -->
+    <!-- FRA -->
+    <string name="FRA_quest3_A">Tu es :</string>
+    <string name="FRA_quest3_B">Dernier diplôme :</string>
+
+    <!-- ANG -->
+    <string name="ANG_quest3_A">You are in :</string>
+    <string name="ANG_quest3_B">Last degree :</string>
+
+    <!-- ESP -->
+    <string name="ESP_quest3_A">Eres en :</string>
+    <string name="ESP_quest3_B">Último grado :</string>
+
+    <!-- Reponse 3 -->
+    <!-- FRA -->
+    <string name="FRA_rep3_AA">Au primaire</string>
+    <string name="FRA_rep3_AB">Au college</string>
+    <string name="FRA_rep3_BA">Aucun</string>
+    <string name="FRA_rep3_BB">Brevet</string>
+    <string name="FRA_rep3_BC">CAP/BEP</string>
+    <string name="FRA_rep3_BD">Bac</string>
+    <string name="FRA_rep3_BE">Licence</string>
+    <string name="FRA_rep3_BF">Bac+5 ou superieur</string>
+
+    <!-- ANG MODIF -->
+    <string name="ANG_rep3_AA">Primary School</string>
+    <string name="ANG_rep3_AB">Secondary School</string>
+    <string name="ANG_rep3_BA">No one</string>
+    <string name="ANG_rep3_BB">Secondary School</string>
+    <string name="ANG_rep3_BC">Youth Training/BTEC First Diploma</string>
+    <string name="ANG_rep3_BD">A levels</string>
+    <string name="ANG_rep3_BE">BA, BS/BSc</string>
+    <string name="ANG_rep3_BF">Ma/MSC/MBA or more</string>
+
+    <!-- ESP MODIF -->
+    <string name="ESP_rep3_AA">Educación Primaria Obligatoria</string>
+    <string name="ESP_rep3_AB">Educación Secundaria Obligatoria</string>
+    <string name="ESP_rep3_BA">Ningún</string>
+    <string name="ESP_rep3_BB">Educación Secundaria Obligatoria</string>
+    <string name="ESP_rep3_BC">Formativos de Grado Medio/FP Básica</string>
+    <string name="ESP_rep3_BD">Bachillerato</string>
+    <string name="ESP_rep3_BE">Grado</string>
+    <string name="ESP_rep3_BF">Máster o más</string>
+
+    <!-- Question 4 -->
+    <!-- FRA -->
+    <string name="FRA_quest4_A">Où habites-tu ?</string>
+    <string name="FRA_quest4_B">Où résidez-vous ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_quest4_A">Where do you live ?</string>
+    <string name="ANG_quest4_B">Where do you live ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_quest4_A">¿ Dónde vives ?</string>
+    <string name="ESP_quest4_B">¿ Dónde vive ?</string>
+
+    <!-- Reponse 4 -->
+    <!-- FRA -->
+    <string name="FRA_rep4_A">Ville de Bordeaux</string>
+    <string name="FRA_rep4_B">Bordeaux Métropole</string>
+    <string name="FRA_rep4_C">Gironde</string>
+    <string name="FRA_rep4_D">Nouvelle-Aquitaine</string>
+    <string name="FRA_rep4_E">France</string>
+    <string name="FRA_rep4_F">Etranger</string>
+
+    <!-- ANG MODIF-->
+    <string name="ANG_rep4_A">City of Bordeaux</string>
+    <string name="ANG_rep4_B">Bordeaux metropolis</string>
+    <string name="ANG_rep4_C">Gironde</string>
+    <string name="ANG_rep4_D">New Aquitaine</string>
+    <string name="ANG_rep4_E">France</string>
+    <string name="ANG_rep4_F">Foreign</string>
+
+    <!-- ESP MODIF-->
+    <string name="ESP_rep4_A">Ciudad de Burdeos</string>
+    <string name="ESP_rep4_B">Metrópolis de Burdeos</string>
+    <string name="ESP_rep4_C">Gironda</string>
+    <string name="ESP_rep4_D">Nueva Aquitania</string>
+    <string name="ESP_rep4_E">Fráncia</string>
+    <string name="ESP_rep4_F">Extranjero</string>
+
+    <!-- Question 5 -->
+    <!-- FRA -->
+    <string name="FRA_quest5">Est-ce votre première visite ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest5">Is it your first visit ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest5">¿ Es su primera visita ?</string>
+
+    <!-- Reponse 5 -->
+    <!-- FRA -->
+    <string name="FRA_rep5_A">Oui</string>
+    <string name="FRA_rep5_B">Non</string>
+
+    <!-- ANG -->
+    <string name="ANG_rep5_A">Yes</string>
+    <string name="ANG_rep5_B">No</string>
+
+    <!-- ESP -->
+    <string name="ESP_rep5_A">Sí</string>
+    <string name="ESP_rep5_B">No</string>
+
+    <!-- Question 6 -->
+    <!-- FRA -->
+    <string name="FRA_quest6">Vous êtes venu :</string>
+    <!-- ANG -->
+    <string name="ANG_quest6">You came with :</string>
+    <!-- ESP -->
+    <string name="ESP_quest6">Viene con :</string>
+
+    <!-- Reponse 6 -->
+    <!-- FRA -->
+    <string name="FRA_rep6_A">En famille</string>
+    <string name="FRA_rep6_B">Entre amis</string>
+    <string name="FRA_rep6_C">En individuel</string>
+    <string name="FRA_rep6_D">Entre professionnels</string>
+    <string name="FRA_rep6_E">Autre</string>
+
+    <!-- ANG MODIF-->
+    <string name="ANG_rep6_A">In family</string>
+    <string name="ANG_rep6_B">Between friends</string>
+    <string name="ANG_rep6_C">Between professionals</string>
+    <string name="ANG_rep6_D">School trip</string>
+    <string name="ANG_rep6_E">Other</string>
+
+    <!-- ESP MODIF-->
+    <string name="ESP_rep6_A">En familia</string>
+    <string name="ESP_rep6_B">Entre amigos</string>
+    <string name="ESP_rep6_C">Entre profesionales</string>
+    <string name="ESP_rep6_D">Viaje escolar</string>
+    <string name="ESP_rep6_E">Otro</string>
+
+    <!-- Question 7 -->
+    <!-- FRA -->
+    <string name="FRA_quest7">Comment avez-vous entendu parler du musée ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest7">How did you discover our museum ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest7">¿ Comó ha descubierto nuestro museo ?</string>
+
+    <!-- Reponse 7 -->
+    <!-- FRA -->
+    <string name="FRA_rep7_A">Infolettre</string>
+    <string name="FRA_rep7_B">Site Internet</string>
+    <string name="FRA_rep7_C">Reseaux sociaux</string>
+    <string name="FRA_rep7_D">Presse</string>
+    <string name="FRA_rep7_E">Office du tourisme</string>
+    <string name="FRA_rep7_F">Agenda papier du musée</string>
+    <string name="FRA_rep7_G">Bouche a oreille</string>
+    <string name="FRA_rep7_H">Guide touristique</string>
+    <string name="FRA_rep7_I">Autre</string>
+
+    <!-- ANG -->
+    <string name="ANG_rep7_A">Infoletters</string>
+    <string name="ANG_rep7_B">Website</string>
+    <string name="ANG_rep7_C">Social network</string>
+    <string name="ANG_rep7_D">Press</string>
+    <string name="ANG_rep7_E">Tourist office</string>
+    <string name="ANG_rep7_F">Museum agenda</string>
+    <string name="ANG_rep7_G">Word of mouth</string>
+    <string name="ANG_rep7_H">Tourist guide</string>
+    <string name="ANG_rep7_I">Other</string>
+
+    <!-- ESP -->
+    <string name="ESP_rep7_A">Hoja informativa</string>
+    <string name="ESP_rep7_B">Sitio web</string>
+    <string name="ESP_rep7_C">Redes sociales</string>
+    <string name="ESP_rep7_D">Prensa</string>
+    <string name="ESP_rep7_E">Oficina de turismo</string>
+    <string name="ESP_rep7_F">Diaro del museo</string>
+    <string name="ESP_rep7_G">Boca a oreja</string>
+    <string name="ESP_rep7_H">Guía de turismo</string>
+    <string name="ESP_rep7_I">Otro</string>
+
+    <!-- Question 8 -->
+    <!-- FRA -->
+    <string name="FRA_quest8">Comment trouvez-vous les informations concernant l’accès au musée ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest8">How do you find information about access to the museum ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest8">¿ Comó se encuentra información sobre el acceso al museo ?</string>
+
+    <!-- Reponse 8 -->
+    <string name="rep8_A">1</string>
+    <string name="rep8_B">2</string>
+    <string name="rep8_C">3</string>
+
+    <!-- Question 9 MODIF -->
+    <!-- FRA -->
+    <string name="FRA_quest9">Comment avez-vous trouvé l\'aide à la visite des tableaux ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest9">How did you find the help to the visit ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest9">¿ Cómo encontraste la ayuda para visitar ?</string>
+
+    <!-- Reponse 9 -->
+    <!-- FRA MODIF-->
+    <string name="FRA_rep9_A">Très satisfaisantes</string>
+    <string name="FRA_rep9_B">Satisfaisantes</string>
+    <string name="FRA_rep9_C">Peu satisfaisantes</string>
+    <string name="FRA_rep9_D">Insatisfaisantes</string>
+
+    <!-- ANG MODIF-->
+    <string name="ANG_rep9_A">Very satisfactory</string>
+    <string name="ANG_rep9_B">Satisfactory</string>
+    <string name="ANG_rep9_C">Little satisfactory</string>
+    <string name="ANG_rep9_D">Unsatisfactory</string>
+
+    <!-- ESP MODIF-->
+    <string name="ESP_rep9_A">Muy satisfactorio</string>
+    <string name="ESP_rep9_B">Satisfactorio</string>
+    <string name="ESP_rep9_C">Poco satisfactorio</string>
+    <string name="ESP_rep9_D">Insatisfactorio</string>
+
+    <!-- Question 10 -->
+    <!-- FRA -->
+    <string name="FRA_quest10">Sur une échelle de 0 à 10, à quel point recommanderiez-vous la visite du musée à une personnes de votre entourage ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest10">On a scale from 0 to 10, how much would you recommand this visit to your entourage ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest10">En una escala de 0 a 10, ¿ cuánto recomendarías la visita del museo a vuestro séquito ?</string>
+
+    <!-- Reponse 10 -->
+    <string name="rep10">5</string>
+
+    <!-- Question 11 MODIF -->
+    <!-- FRA -->
+    <string name="FRA_quest11">Espace libre pour commenter</string>
+    <!-- ANG -->
+    <string name="ANG_quest11">Free space to comment</string>
+    <!-- ESP -->
+    <string name="ESP_quest11">Espacio libre para comentar </string>
+
+    <!-- Reponse 11 -->
+    <!-- FRA -->
+    <string name="FRA_rep11">Laisser un commentaire ! :)</string>
+
+    <!-- ANG -->
+    <string name="ANG_rep11">Leave a comment ! :)</string>
+
+    <!-- ESP -->
+    <string name="ESP_rep11">¡ Deja un comentario ! :)</string>
+
+    <!-- Question 12 MODIF-->
+    <!-- FRA -->
+    <string name="FRA_quest12">Avez-vous visité le musée avec des enfants ?</string>
+    <!-- ANG -->
+    <string name="ANG_quest12">Did you visit the museum with children ?</string>
+    <!-- ESP -->
+    <string name="ESP_quest12">¿ Acaba con niños ?</string>
+
+    <!-- Reponse 12 -->
+    <!-- FRA -->
+    <string name="FRA_rep12_A">Oui</string>
+    <string name="FRA_rep12_B">Non</string>
+
+    <!-- ANG -->
+    <string name="ANG_rep12_A">Yes</string>
+    <string name="ANG_rep12_B">No</string>
+
+    <!-- ESP -->
+    <string name="ESP_rep12_A">Sí</string>
+    <string name="ESP_rep12_B">No</string>
+
+
+
+
+    <!-- QUESTIONS LUDIQUE -->
+
+    <!-- LUD 1 -->
+
+    <!-- Quest1 -->
+    <!-- FRA -->
+    <string name="FRA_questLud1">Comment s\'appelle l\'instrument utilisé dans cette toile ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud1">What is the name of the instrument used in this painting ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud1">¿ Cuál es el nombre del instrumento utilizado en esta pintura ?</string>
+
+    <!-- Rep 1 -->
+    <!-- FRA -->
+    <string name="FRA_repLud1_A">Violon</string>
+    <string name="FRA_repLud1_B">Cornemuse</string>
+    <string name="FRA_repLud1_C">Trompette</string>
+    <string name="FRA_repLud1_D">Luth</string>
+
+    <!-- ANG -->
+    <string name="ANG_repLud1_A">Violin</string>
+    <string name="ANG_repLud1_B">Bagpipe</string>
+    <string name="ANG_repLud1_C">Trumpet</string>
+    <string name="ANG_repLud1_D">Lute</string>
+
+    <!-- ESP -->
+    <string name="ESP_repLud1_A">Violín</string>
+    <string name="ESP_repLud1_B">Gaita</string>
+    <string name="ESP_repLud1_C">Trompeta</string>
+    <string name="ESP_repLud1_D">Laúd</string>
+
+    <!-- Descript 1-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud1">La danse de noces</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud1">Wedding dance</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud1">Baile de boda</string>
+
+    <!-- LUD 2 -->
+
+    <!-- Quest2 -->
+    <!-- FRA -->
+    <string name="FRA_questLud2">Comment ce quartier Bordelais s\'appelle-t-il aujourd\'hui ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud2">What is the name of this Bordeaux neighbourhoos today ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud2">¿ Cuál es el nombre de este barrio de Burdeos hoy ?</string>
+
+    <!-- Rep 2 -->
+    <!-- FRA -->
+    <string name="FRA_repLud2_A">Sainte-Croix</string>
+    <string name="FRA_repLud2_B">Grand Théâtre</string>
+    <string name="FRA_repLud2_C">Chartrons</string>
+    <string name="FRA_repLud2_D">La Victoire</string>
+
+    <!-- ANG -->
+    <string name="ANG_repLud2_A">Sainte-Croix</string>
+    <string name="ANG_repLud2_B">Grand Théâtre</string>
+    <string name="ANG_repLud2_C">Chartrons</string>
+    <string name="ANG_repLud2_D">La Victoire</string>
+
+    <!-- ESP -->
+
+    <string name="ESP_repLud2_A">Sainte-Croix</string>
+    <string name="ESP_repLud2_B">Grand Théâtre</string>
+    <string name="ESP_repLud2_C">Chartrons</string>
+    <string name="ESP_repLud2_D">La Victoire</string>
+
+    <!-- Descript 2-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud2">Une vue de Bordeaux familière</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud2">A well-known view from Bordeaux</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud2">una vista muy famosa de Bordeaux</string>
+
+    <!-- LUD 3 -->
+
+    <!-- Quest3 -->
+    <!-- FRA -->
+    <string name="FRA_questLud3">Que peut-on voir dans le cahier ici présent ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud3">What can we see in the notebook here ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud3">¿ Qué podemos ver en el cuaderno aquí ?</string>
+
+    <!-- Rep 3 -->
+    <!-- FRA -->
+    <string name="FRA_repLud3_A">Des dessins</string>
+    <string name="FRA_repLud3_B">Un schéma</string>
+    <string name="FRA_repLud3_C">Des notes de travail</string>
+    <string name="FRA_repLud3_D">Des partitions</string>
+
+    <!-- ANG -->
+    <string name="ANG_repLud3_A">Drawings</string>
+    <string name="ANG_repLud3_B">A diagram</string>
+    <string name="ANG_repLud3_C">Working notes</string>
+    <string name="ANG_repLud3_D">Partitions</string>
+
+    <!-- ESP -->
+    <string name="ESP_repLud3_A">Dibujos</string>
+    <string name="ESP_repLud3_B">Un esquema</string>
+    <string name="ESP_repLud3_C">Notas de trabajo</string>
+    <string name="ESP_repLud3_D">Partituras</string>
+
+    <!-- Descript 3-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud3">Nature morte à la vieille</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud3">old school still-life</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud3">naturaleza muerta a la antigua</string>
+
+    <!-- LUD 4 -->
+
+    <!-- Quest4 -->
+    <!-- FRA -->
+    <string name="FRA_questLud4">Quels sont les animaux présentés sur cette sculpture ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud4">What are the pets presented on this sculpture ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud4">¿ Cuáles son los animales presentados en esta escultura ?</string>
+
+    <!-- Rep 4 -->
+    <!-- FRA -->
+    <string name="FRA_repLud4_A">Un cerf</string>
+    <string name="FRA_repLud4_B">Un taureau</string>
+    <string name="FRA_repLud4_C">Un lion</string>
+    <string name="FRA_repLud4_D">Un loup</string>
+    <string name="FRA_repLud4_E">Une panthère</string>
+    <string name="FRA_repLud4_F">Un serpent</string>
+    <string name="FRA_repLud4_G">Un renard</string>
+
+    <!-- ANG -->
+    <string name="ANG_repLud4_A">A deer</string>
+    <string name="ANG_repLud4_B">A bull</string>
+    <string name="ANG_repLud4_C">A lion</string>
+    <string name="ANG_repLud4_D">A wolf</string>
+    <string name="ANG_repLud4_E">A panther</string>
+    <string name="ANG_repLud4_F">A snake</string>
+    <string name="ANG_repLud4_G">A fox</string>
+
+    <!-- ESP -->
+    <string name="ESP_repLud4_A">Un ciervo</string>
+    <string name="ESP_repLud4_B">Un toro</string>
+    <string name="ESP_repLud4_C">Un león</string>
+    <string name="ESP_repLud4_D">Un lobo</string>
+    <string name="ESP_repLud4_E">Una pantera</string>
+    <string name="ESP_repLud4_F">Una serpiente</string>
+    <string name="ESP_repLud4_G">Un zorro</string>
+
+    <!-- Descript 4-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud4">La Chasse</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud4">The Hunt</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud4">La Caza</string>
+
+    <!-- LUD 1 -->
+
+    <!-- Quest5 -->
+    <!-- FRA -->
+    <string name="FRA_questLud5">De quel courant vient cette toile ?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud5">what current does this painting come from ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud5">¿ De qué corriente proviene esta pintura ?</string>
+
+    <!-- Rep 5 -->
+    <!-- FRA -->
+    <string name="FRA_repLud5_A">La renaissance</string>
+    <string name="FRA_repLud5_B">Le baroque</string>
+    <string name="FRA_repLud5_C">Le surréalisme</string>
+    <string name="FRA_repLud5_D">Le pop art</string>
+
+    <!-- ANG -->
+    <string name="ANG_repLud5_A">The renaissance</string>
+    <string name="ANG_repLud5_B">The baroque</string>
+    <string name="ANG_repLud5_C">The surrealism</string>
+    <string name="ANG_repLud5_D">The pop art</string>
+
+    <!-- ESP -->
+    <string name="ESP_repLud5_A">El renacimiento</string>
+    <string name="ESP_repLud5_B">El barroco</string>
+    <string name="ESP_repLud5_C">El surrealismo</string>
+    <string name="ESP_repLud5_D">El arte pop</string>
+
+    <!-- Descript 5-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud5">Portrait du sénateur Orsini</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud5">Senator Orsini's portrait</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud5">Retrato del senador Orsini</string>
+
+    <!-- LUD 6 -->
+
+    <!-- Quest6 -->
+    <!-- FRA -->
+    <string name="FRA_questLud6">Laquelle de ces deux peintures est la plus ancienne?</string>
+
+    <!-- ANG -->
+    <string name="ANG_questLud6">Wich painting is the older ?</string>
+
+    <!-- ESP -->
+    <string name="ESP_questLud6">¿ Cuál es la pintura la más antigua ?</string>
+
+    <!-- Descript 6-->
+    <!-- FRA -->
+    <string name="FRA_descriptLud6">Deux siècles d'écart de peinture</string>
+
+    <!-- ANG -->
+    <string name="ANG_descriptLud6">two centuries gap of painting</string>
+
+    <!-- ESP -->
+    <string name="ESP_descriptLud6">dos siglos de diferencia de pintura</string>
+
+</resources>

@@ -1,0 +1,34 @@
+\documentclass[12]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\definecolor{babyblue}{rgb}{0.54, 0.81, 0.94}
+
+\hypersetup{
+  colorlinks=true,
+  linktoc=all,
+  linkcolor=babyblue,
+}
+\title{\textbf{Projet de communication transdisciplinaire - Rapport}}
+\author{Mahazoasy Heritiana, Jalenques Hugo, Dupland Erwan, Tremor Suulyvan}
+\date\today{}
+
+\begin{document}
+\renewcommand{\contentsname}{Sommaire}
+
+\maketitle
+\tableofcontents
+
+  \chapter{\underline{Présentation}}
+    \section{Introduction}
+    Jusqu'à maintenant, le musée a mis en place des études de publics de façon ponctuelle et irrégulière, et ne dispose pas de données objectives sur le public qui visite le musée. Le musée des beaux arts souhaite donc mettre en place, à disposition des visiteurs, un outil numérique qui lui permettrait de recueillir ces données.
+
+    \section{Objectifs fixés}
+    Le recueil de données sur les visiteurs à travers un questionnaire simple contrarie le public qui aura tendance à donner de fausses informations. L'objectif était donc de produire un programme, pour une tablette positionnée à l'entrée du musée, implémentant un questionnaire afin de recueillir des informations auprès des visiteurs des beaux-arts (sexe, âge, raison de la visite, etc...) de manière ludique.
+    De plus, les données acquises grâce au questionnaire proposé aux visiteurs sont hébergé sur une base de donnée qui est facilement convertible en graphe ou en liste en fonction du besoin du client.
+
+    \chapter{\underline{L'application}}
+\end{document}

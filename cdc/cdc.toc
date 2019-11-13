@@ -1,0 +1,10 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}\relax $\@@underline {\hbox {Pr\IeC {\'e}sentation}}\mathsurround \z@ $\relax }{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objectifs}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}\relax $\@@underline {\hbox {Expression des besoins}}\mathsurround \z@ $\relax }{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Besoins fonctionnels}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Besoins non-fonctionnels}{3}{section.2.2}
+\contentsline {chapter}{\numberline {3}\relax $\@@underline {\hbox {Solution adopt\IeC {\'e}e}}\mathsurround \z@ $\relax }{4}{chapter.3}
+\contentsline {chapter}{\numberline {4}\relax $\@@underline {\hbox {Version basique}}\mathsurround \z@ $\relax }{5}{chapter.4}
+\contentsline {chapter}{\numberline {5}\relax $\@@underline {\hbox {Questions essentielles \IeC {\`a} poser}}\mathsurround \z@ $\relax }{6}{chapter.5}

@@ -1,0 +1,8 @@
+Quels sont les animaux présentés sur cette sculpture :
+0- Un cerf    <---------
+0- Un taureau
+0- Un lion
+0- Un loup
+0- Une panthère   <---------
+0- Un serpent
+0- Un renard

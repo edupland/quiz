@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sully.quizwithserver">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".FirstActivity"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".QuestionsActivities.Q1Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q2Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q3Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q4Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q5Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q6Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q7Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q8Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q9Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q10Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q11Activity" android:configChanges="orientation" />
+        <activity android:name=".QuestionsActivities.Q12Activity" android:configChanges="orientation" />
+        <activity android:name=".LastActivity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P1Activity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P2Activity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P3Activity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P4Activity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P5Activity" android:configChanges="orientation" />
+        <activity android:name=".PlayfulActivities.P6Activity" android:configChanges="orientation" />
+    </application>
+
+</manifest>
